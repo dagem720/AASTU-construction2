@@ -1,0 +1,14 @@
+.v-btn{
+    margin: 0px 10px;
+}
+.v-sheet{
+    background-color: rgb(226, 179, 109);
+    height: 100%;
+    text-align: center;
+    margin: auto;
+}
+.v-footer{
+    height: 100px;
+    width: 100%;
+}
+

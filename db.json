@@ -1,0 +1,30 @@
+{
+  "sentLetters": [
+    {
+      "id": 1,
+      "fname": "Dagi",
+      "lname": "GM",
+      "email": "dagem720@gmail.com",
+      "remail": "dafa@gmail.com",
+      "message": "rrr"
+    },
+    {
+      "fname": "dagi",
+      "lname": "g,",
+      "email": "jdbsjabd@gmail.com",
+      "remail": "sfsafs@yahoo.com",
+      "message": "sdasskahsc",
+      "id": 2
+    }
+  ],
+  "receivedLetters":[
+    {
+      "fname": "dagi",
+      "lname": "g,",
+      "email": "jdbsjabd@gmail.com",
+      "remail": "sfsafs@yahoo.com",
+      "message": "sdasskahsc",
+      "id": 2
+    }
+  ]
+}
